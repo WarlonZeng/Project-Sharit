@@ -1,4 +1,4 @@
-# Also known as Design Project I (DP1)
+# Design Project I (DP1)
 Project: Sharit
 Course Details: Documentation for a software development project
 Project Details: Found in Project Proposal
