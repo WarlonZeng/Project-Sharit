@@ -1,6 +1,8 @@
 # Software Engineering and Design Project
 ##Project: Sharit
 
+Open-source code for this project can be found at http://github.com/rasagle/Sharit
+
 Acronym Abbrevations:
 
 SRS - Software Requirements Specification
