@@ -3,6 +3,8 @@
 
 Open-source code for this project can be found at http://github.com/rasagle/Sharit
 
+Source Code: https://github.com/rasagle/Sharit
+
 Acronym Abbrevations:
 
 SRS - Software Requirements Specification
