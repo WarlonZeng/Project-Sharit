@@ -1,0 +1,3 @@
+[submodule "Sharit"]
+	path = Sharit
+	url = https://github.com/rasagle/Sharit
