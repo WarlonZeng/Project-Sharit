@@ -1,6 +1,8 @@
 # Software Engineering and Design Project
 ##Project: Sharit
 
+This repo extends to CS4523 Design Project, more widely known within the school Software Engineering II.
+
 Open-source code for this project can be found at http://github.com/rasagle/Sharit
 
 Acronym Abbrevations:
