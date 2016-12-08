@@ -21,7 +21,10 @@ Project Sharit is a project managed by 4 people taking on roles.
 "Sharit" is a reddit-like platform to share educated information (notes, work, etc.).
 The course of this project is handled by documentation first, then coding.
 The following technology will be used to code the project: 
-NodeJS, HTML5, CSS3, ReactJS, PostgreSQL. Linux deployment, possibly cloud.
-GitHub to share code.
 
-Project will be finished before 12/1/16 (because that's when the fall semester basically ends :])
+* NodeJS
+* PostgreSQL
+* HTML5
+* CSS3
+
+Nginx and pm2 for handling production on AWS EC2 linux ubuntu 16.04 LTS server.
