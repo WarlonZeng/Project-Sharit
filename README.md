@@ -1,9 +1,15 @@
 # Software Engineering and Design Project
-##Project: Sharit
+## Project Sharit
 
-This repo extends to CS4523 Design Project, more widely known within the school Software Engineering II.
+Codebase: https://github.com/rasagle/Sharit
 
-Open-source code for this project can be found at http://github.com/rasagle/Sharit
+OR 
+
+https://github.com/WarlonZeng/Sharit
+
+Website: sharit.warloncs.net
+
+This repo extends to CS4523 Design Project, more widely known within the school of NYU Tandon as Software Engineering II.
 
 Acronym Abbrevations:
 
