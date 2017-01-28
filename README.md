@@ -2,12 +2,12 @@
 ## Project Sharit
 
 * Website
- * ec2-52-91-21-93.compute-1.amazonaws.com/
- * sharit.warloncs.net
+ * http://ec2-52-91-21-93.compute-1.amazonaws.com/
+ * http://sharit.warloncs.net
+ * http://52.91.21.93/
 
 * Codebase
  * https://github.com/rasagle/Sharit
- * https://github.com/WarlonZeng/Sharit
 
 * Google Drive
  * https://drive.google.com/open?id=0B0aXclHx5n42VFlOdURvSGRRQms
