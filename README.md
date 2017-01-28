@@ -1,13 +1,16 @@
 # Software Engineering and Design Project
 ## Project Sharit
 
-Codebase: https://github.com/rasagle/Sharit
+* Website
+ * ec2-52-91-21-93.compute-1.amazonaws.com/
+ * sharit.warloncs.net
 
-OR 
+* Codebase
+ * https://github.com/rasagle/Sharit
+ * https://github.com/WarlonZeng/Sharit
 
-https://github.com/WarlonZeng/Sharit
-
-Website: http://sharit.warloncs.net
+* Google Drive
+ * https://drive.google.com/open?id=0B0aXclHx5n42VFlOdURvSGRRQms
 
 This repo extends to CS4523 Design Project, more widely known within the school of NYU Tandon as Software Engineering II.
 
