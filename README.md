@@ -7,7 +7,7 @@ OR
 
 https://github.com/WarlonZeng/Sharit
 
-Website: sharit.warloncs.net
+Website: http://sharit.warloncs.net
 
 This repo extends to CS4523 Design Project, more widely known within the school of NYU Tandon as Software Engineering II.
 
