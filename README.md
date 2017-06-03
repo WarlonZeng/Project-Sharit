@@ -1,10 +1,8 @@
 # Software Engineering and Design Project
 ## Project Sharit
 
-* Website
- * http://ec2-52-91-21-93.compute-1.amazonaws.com/
- * http://sharit.warloncs.net
- * http://52.91.21.93/
+# WEBSITE IS SHUT DOWN
+Hosting the web app exceeded my AWS credits and actually costed me quite a fortune :(
 
 * Codebase
  * https://github.com/rasagle/Sharit
